@@ -26,3 +26,6 @@ pip3 install -i https://pypi.douban.com/simple pycryptodome
 部分源代码来自:-Github:https://github.com/lianglixin/ncmdump
 本软件版权归KGDsave Software Studio所有，但是源代码可以供您随意使用(包括，二次开发，更改原文件等)，但是禁止用于商业用途。
 CopyRight 2016-2020 KGDsave SoftWare Studio-------------------------2018.10.27 14:00 上传
+
+
+链接: https://pan.baidu.com/s/1FJFCvXmumjgEro23xWAdXQ 提取码: 3dtc
